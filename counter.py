@@ -59,4 +59,3 @@ def grapher(input1 = (input('what song should i use don\'t worry about caps: '))
     plt.show()
 
 
-grapher()
