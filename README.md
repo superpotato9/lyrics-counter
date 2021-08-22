@@ -1,4 +1,5 @@
 # lyrics-counter
+note you will need lyr installed: https://pypi.org/project/lyr/#description
 counts the occurrences of words in song lyrics and/or can graph on a pi chart 
 use 
 <p> </p>
