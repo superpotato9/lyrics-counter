@@ -1,7 +1,8 @@
 # lyrics-counter
+this counts the occurrences of words in song lyrics and/or can graph on a pi chart 
 note you will need lyr installed: https://pypi.org/project/lyr/#description
-counts the occurrences of words in song lyrics and/or can graph on a pi chart 
-use 
+
+
 <p> </p>
 <b><i>from counter import music_sorter
   
