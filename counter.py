@@ -25,7 +25,7 @@ def music_sorter(query):
     return count_sorted
 
 
-def grapher(input1 = (input('what song should i use don\'t worry about caps: ')), input2 = int(input("how many of the top values should i show (dont go past 50)"))):
+def grapher(input1, input2):
     show_str = input2
     how_many = int(show_str)
     ccolor = []
